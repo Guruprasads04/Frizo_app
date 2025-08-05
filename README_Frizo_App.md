@@ -86,6 +86,10 @@ Frizo-App-UI/
 `[🔗https://www.figma.com/proto/4dZg8I11AuEZQIhQtLUtry/frizo?page-id=0%3A1&node-id=294-115&p=f&viewport=-239%2C1051%2C0.39&t=6Y8tPRqSTHbBe72O-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=294%3A115
 
 ---
+## Design frameworks
+
+<img width="1102" height="861" alt="Screenshot 2025-08-05 190701" src="https://github.com/user-attachments/assets/0612a0c4-3ecc-4a94-ad90-0251beda2b45" />
+
 
 ## 🙌 Credits
 
