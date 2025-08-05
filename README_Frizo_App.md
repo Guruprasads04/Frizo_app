@@ -83,12 +83,12 @@ Frizo-App-UI/
 ## 📎 Figma Link
 
 > Add your public Figma link here for viewers to explore the prototype:  
-`[🔗 View Figma Prototype](https://www.figma.com/file/your-prototype-link)`
+`[🔗https://www.figma.com/proto/4dZg8I11AuEZQIhQtLUtry/frizo?page-id=0%3A1&node-id=294-115&p=f&viewport=-239%2C1051%2C0.39&t=6Y8tPRqSTHbBe72O-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=294%3A115
 
 ---
 
 ## 🙌 Credits
 
-Designed by **[Your Name]**  
+Designed by **Guruprasad S**  
 UI/UX Designer & Developer  
 LinkedIn | Behance | Portfolio (Optional)
